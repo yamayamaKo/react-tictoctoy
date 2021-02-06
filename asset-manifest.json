@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-tictoctoy/static/js/main.cf18d34c.chunk.js",
+    "main.js.map": "/react-tictoctoy/static/js/main.cf18d34c.chunk.js.map",
+    "runtime-main.js": "/react-tictoctoy/static/js/runtime-main.205331e3.js",
+    "runtime-main.js.map": "/react-tictoctoy/static/js/runtime-main.205331e3.js.map",
+    "static/js/2.afa1fc68.chunk.js": "/react-tictoctoy/static/js/2.afa1fc68.chunk.js",
+    "static/js/2.afa1fc68.chunk.js.map": "/react-tictoctoy/static/js/2.afa1fc68.chunk.js.map",
+    "index.html": "/react-tictoctoy/index.html",
+    "static/js/2.afa1fc68.chunk.js.LICENSE.txt": "/react-tictoctoy/static/js/2.afa1fc68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.205331e3.js",
+    "static/js/2.afa1fc68.chunk.js",
+    "static/js/main.cf18d34c.chunk.js"
+  ]
+}
